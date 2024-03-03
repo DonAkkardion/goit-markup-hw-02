@@ -27,9 +27,7 @@ button {
     color: #4d5ae5;
 }
 
-.logo span{
-    color: #2e2f42;
-}
+
 
 .page-title{
 
@@ -38,6 +36,7 @@ button {
     letter-spacing: 0.02em;
     line-height: 60px; 
     line-height: 1.07;
+    text-align: center;
     color: #fff;
 }
 .section-title{
@@ -45,6 +44,7 @@ button {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
+    text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
@@ -63,6 +63,10 @@ button {
 
 
 /** ==============HEADER================ */
+.logo span {
+    color: #2e2f42;
+}
+
 .header{
     background-color: #fff;
 }
@@ -185,6 +189,9 @@ button {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
+.logo span{
     color: #f4f4fd;
 }
 /** ============================== */
