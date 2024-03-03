@@ -63,7 +63,7 @@ button {
 
 
 /** ==============HEADER================ */
-.logo span {
+.logo-grey {
     color: #2e2f42;
 }
 
@@ -120,6 +120,14 @@ button {
 /** ============================== */
 
 /** =============FEATURES================= */
+.features-section-title{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
 
 .features-list-title{
 
@@ -191,7 +199,7 @@ button {
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
-.logo span{
+.logo-white{
     color: #f4f4fd;
 }
 /** ============================== */
